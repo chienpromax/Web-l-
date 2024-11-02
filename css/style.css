@@ -249,7 +249,7 @@ div.arts p, p>a{
     color:rgb(231,148,198);
 }
 
-p,h1,h2,h3,h4,li,span,img {
+p,h1,h2,h3,h4,li,span,img,a {
     animation: rotate 1s linear infinite;
 }
 
